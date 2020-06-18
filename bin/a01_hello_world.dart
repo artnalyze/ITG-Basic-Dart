@@ -1,9 +1,9 @@
-// ต้องเริ่มการทำงานจาก method main() เสมอ
+// * ต้องเริ่มการทำงานจาก method main() เสมอ
 
 void main() {
   print("Hello World Dart!!");
 
-  // concat string
+  // * concat string
   print("I love" + " dart programming");
   print("My name is Art\nI'm a developer.");
   print('''Hello to learn dart faster 
