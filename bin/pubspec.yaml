@@ -1,0 +1,5 @@
+name: basic_dart
+version: 1.0.0
+description: dart description
+dependencies:
+  meta: ^1.1.8
