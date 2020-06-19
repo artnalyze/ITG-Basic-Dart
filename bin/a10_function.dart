@@ -2,7 +2,7 @@
  ** การเรียนรู้ภาษา Dart
  ** Topic 10 : Function
  **/
-import 'package:meta/meta.dart';
+import 'package:meta/meta.dart' show required;
 
 void main() {
   // *create function add
@@ -48,7 +48,7 @@ void main() {
 
   print(setConfig(
       basePath: "/home",
-      appPath: "/op",
+      // appPath: "/op",
       defaultController: "main",
       maxThread: 10));
 
